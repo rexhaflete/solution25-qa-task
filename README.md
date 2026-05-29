@@ -1,0 +1,1 @@
+# solution25-qa-task
